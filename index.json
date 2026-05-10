@@ -7,7 +7,7 @@
       "id": "airfoe_blender_tooling",
       "name": "Airfoe Blender Tooling",
       "tagline": "Internal Airfoe Tools",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "type": "add-on",
       "maintainer": "fynn.luft@airfoe.com",
       "license": [
@@ -15,9 +15,9 @@
       ],
       "blender_version_min": "4.2.0",
       "permissions": {},
-      "archive_url": "./airfoe_blender_tooling-1.0.2.zip",
-      "archive_size": 7237,
-      "archive_hash": "sha256:c5611220b8a5943caebf8647a274439e8e71789082e5707a549f0a09af6c7858"
+      "archive_url": "./airfoe_blender_tooling-1.0.3.zip",
+      "archive_size": 7398,
+      "archive_hash": "sha256:84a20f1a545f23e3bd18473728319d9efc3a57edcedf5f98af38cae3b2366372"
     }
   ]
 }
