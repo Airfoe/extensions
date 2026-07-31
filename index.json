@@ -18,6 +18,25 @@
       "archive_url": "./airfoe_blender_tooling-1.7.5.zip",
       "archive_size": 28723,
       "archive_hash": "sha256:6ae953daf7ec96c85e1ab4ac7f2911149b588b5f79b2060c9399a6f1ee804731"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "P4Blender",
+      "name": "P4Blender",
+      "tagline": "Checks the current .blend out of Perforce when you save",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "h.herbst123@gmail.com",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "permissions": {
+        "files": "Runs the p4 command line client against the current .blend file"
+      },
+      "archive_url": "./P4Blender-1.0.0.zip",
+      "archive_size": 25647,
+      "archive_hash": "sha256:cdf2fef26f25298aec35f1a374abf465edf4506fd48a3dee5823fdadf6357f96"
     }
   ]
 }
