@@ -35,8 +35,8 @@
       "blender_version_min": "4.2.0",
       "permissions": {},
       "archive_url": "./airfoe_blender_tooling-1.11.0.zip",
-      "archive_size": 40178,
-      "archive_hash": "sha256:70619632d049c0f741339d26f371b4245e40a994543674964ae4476b1f1bf075"
+      "archive_size": 40083,
+      "archive_hash": "sha256:4aa37ae7b23be63483087d4189c3070ac8e2e0c7e28c5d89085f285051d7066c"
     }
   ]
 }
