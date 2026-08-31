@@ -4,23 +4,6 @@
   "data": [
     {
       "schema_version": "1.0.0",
-      "id": "airfoe_blender_tooling",
-      "name": "Airfoe Blender Tooling",
-      "tagline": "Internal Airfoe Tools",
-      "version": "1.8.1",
-      "type": "add-on",
-      "maintainer": "fynn.luft@airfoe.com",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.2.0",
-      "permissions": {},
-      "archive_url": "./airfoe_blender_tooling-1.8.1.zip",
-      "archive_size": 34192,
-      "archive_hash": "sha256:4e72d8436d3cca17f6d63783500bc0ee005807bc61e80fa0e50efa020ff0fb4c"
-    },
-    {
-      "schema_version": "1.0.0",
       "id": "P4Blender",
       "name": "P4Blender",
       "tagline": "Checks the current .blend out of Perforce when you save",
@@ -37,6 +20,23 @@
       "archive_url": "./P4Blender-1.1.0.zip",
       "archive_size": 27750,
       "archive_hash": "sha256:f8703d2a60b5318d5cdb935ce7090b030efc5307e2ec478e94bb9bdf5a02352b"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "airfoe_blender_tooling",
+      "name": "Airfoe Blender Tooling",
+      "tagline": "Internal Airfoe Tools",
+      "version": "1.11.0",
+      "type": "add-on",
+      "maintainer": "fynn.luft@airfoe.com",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "permissions": {},
+      "archive_url": "./airfoe_blender_tooling-1.11.0.zip",
+      "archive_size": 40178,
+      "archive_hash": "sha256:70619632d049c0f741339d26f371b4245e40a994543674964ae4476b1f1bf075"
     }
   ]
 }
